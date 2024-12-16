@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url(/images/bg5.jpg); /* Replace with your background image */
+    background-size: cover;
+    color:#271405;
+    position:absolute;
+    left:15cm;
+    top:3cm;
+    
+  }
+  p{
+    font-size: xx-large;
+    color: #271405;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+  
+  }
+  #wee{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #5c2b05;
+    font-size:0.5cm;
+  }
+  .button {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 1rem;
+    color: white;
+    background-color: rgb(29, 5, 5);
+    text-decoration: none;
+    border-radius: 5px;
+  }
